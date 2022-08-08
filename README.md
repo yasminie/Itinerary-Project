@@ -1,2 +1,2 @@
-# Itinerary-Project
-itinerary project written in Python
+# Itinerary Project
+Itinerary project written in Python
